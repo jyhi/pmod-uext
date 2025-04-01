@@ -61,11 +61,11 @@ Power and ground on both sides are always connected. Other I/O pins are left ope
 
 ## License
 
-The hardware design is licensed under the [CERN Open Hardware Licence Version 2 (Strongly Reciprocal)][ohl-s-2.0]. A copy of the license text can be found at [LICENSES/CERN-OHL-S-2.0.txt](./LICENSES/CERN-OHL-S-2.0.txt).
+The hardware design is licensed under the [CERN Open Hardware Licence Version 2 (Strongly Reciprocal)][ohl-s-2.0]. A copy of license text can be found at [LICENSES/CERN-OHL-S-2.0.txt](./LICENSES/CERN-OHL-S-2.0.txt).
 
-Non-hardware contents in this project are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa-4.0] license. A copy of the license text can be found at [LICENSES/CC-BY-SA-4.0.txt](./LICENSES/CC-BY-SA-4.0.txt).
+Non-hardware contents in this project are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa-4.0] license. A copy of license text can be found at [LICENSES/CC-BY-SA-4.0.txt](./LICENSES/CC-BY-SA-4.0.txt).
 
-Check the comment header or the accompanying `.license` file of each file for the license applicable to it. For details, visit <https://reuse.software>.
+Check [REUSE.toml](./REUSE.toml) for information about licenses applicable to individual files. Alternatively, check the comment header of a file for the license applicable to it. For details, visit <https://reuse.software>.
 
 [ohl-s-2.0]: https://ohwr.org/cern_ohl_s_v2.pdf
 [cc-by-sa-4.0]: https://creativecommons.org/licenses/by-sa/4.0/
