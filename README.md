@@ -7,8 +7,8 @@
 
 This Digilent Pmod&trade; Compatible module converts between a 12-pin Pmod interface to an Olimex Universal Extension Connector (UEXT) interface.
 
-<img src="./Asset/pcb-top-1.0-1.png" alt="Top" width="48%" />
-<img src="./Asset/pcb-bottom-1.0-1.png" alt="Bottom" width="48%" />
+![Top](./Asset/pcb-top-1.0-1.png)
+![Bottom](./Asset/pcb-bottom-1.0-1.png)
 
 ## Use
 
