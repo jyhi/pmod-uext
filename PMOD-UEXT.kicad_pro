@@ -500,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Revision/1.0/Gerber/",
+      "plot": "Revision/1.0/PCB/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Revision/1.0/3D_Model.step",
