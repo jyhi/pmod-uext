@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2025 Junde Yhi <junde@yhi.moe>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+version = 1
+
+[[annotations]]
+path = ["Asset/*"]
+SPDX-FileCopyrightText = "2025 Junde Yhi <junde@yhi.moe>"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["*.kicad*", "sym-lib-table"]
+SPDX-FileCopyrightText = "2025 Junde Yhi <junde@yhi.moe>"
+SPDX-License-Identifier = "CERN-OHL-S-2.0"
