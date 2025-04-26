@@ -10,6 +10,20 @@ This Digilent Pmod&trade; Compatible module converts between a 12-pin Pmod inter
 ![Top](./Asset/pcb-top-1.0-1.png)
 ![Bottom](./Asset/pcb-bottom-1.0-1.png)
 
+## Errata 1.x
+
+This section lists known issues of the product in version 1.x.
+
+- It's difficult to solder VCC and GND pins.
+    - Reason: too much thermal relief.
+    - Mitigation: use flux and retain soldering tip on the plate for an extended time.
+- SW1 switch positions doesn't match the description printed beside it.
+    - Reason: on the PCB design file, SW1 is mistakenly placed upside-down.
+    - Mitigation: flip SW1 by 180 degree, replacing it upright (i.e. first pin at the bottom-left corner). This doesn't change the function of the DIP switch.
+- I2C pins (under Pmod Type 6/A) cross-talk with each other slightly (approximately 100mV).
+    - Reason: suboptimal PCB trace placement.
+    - Mitigation: none. In theory, the cross-talk signal won't be strong enough to disrupt the signals on another pin.
+
 ## Use
 
 Select a Pmod interface type with the DIP switch (SW1). This routes the correct pins between Pmod and UEXT.
