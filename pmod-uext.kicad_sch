@@ -942,7 +942,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PMOD-UEXT:TMUX1309"
+		(symbol "pmod-uext:TMUX1309"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4188,7 +4188,7 @@
 			(uuid "40fc9906-02fd-44ed-b529-b1fe660f8502")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR08")
 					(unit 1)
@@ -4387,7 +4387,7 @@
 			(uuid "360630ea-efb4-4e24-9048-1cf633099332")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR011")
 					(unit 1)
@@ -4558,7 +4558,7 @@
 			(uuid "2e03b0f9-913e-478a-a651-fb44b02bb779")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR015")
 					(unit 1)
@@ -4956,7 +4956,7 @@
 			(uuid "9f7114c7-9211-4a61-97ca-d8fd23648ad6")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR017")
 					(unit 1)
@@ -5178,7 +5178,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOD-UEXT:TMUX1309")
+		(lib_id "pmod-uext:TMUX1309")
 		(at 165.1 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5295,7 +5295,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOD-UEXT:TMUX1309")
+		(lib_id "pmod-uext:TMUX1309")
 		(at 49.53 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5646,7 +5646,7 @@
 			(uuid "0def3c4f-2ad1-430e-8bde-07a3c29a1ab3")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR016")
 					(unit 1)
@@ -5712,7 +5712,7 @@
 			(uuid "f3749dac-e0a6-4808-8dce-221bb604c0ee")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR020")
 					(unit 1)
@@ -5988,7 +5988,7 @@
 			(uuid "47e56581-9835-415e-a3c3-7b0c48a6ba30")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR010")
 					(unit 1)
@@ -6187,7 +6187,7 @@
 			(uuid "8095371b-9b7c-418b-b1a7-fe81482b7e0a")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR021")
 					(unit 1)
@@ -6196,7 +6196,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOD-UEXT:TMUX1309")
+		(lib_id "pmod-uext:TMUX1309")
 		(at 107.95 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6434,7 +6434,7 @@
 			(uuid "96a095a5-d2ce-468d-b605-16c33d8dfbdd")
 		)
 		(instances
-			(project "PMOD-UEXT"
+			(project "pmod-uext"
 				(path "/382daf84-bf7b-44ad-8559-ab4145e50afa"
 					(reference "#PWR022")
 					(unit 1)
@@ -6443,7 +6443,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOD-UEXT:TMUX1309")
+		(lib_id "pmod-uext:TMUX1309")
 		(at 223.52 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)

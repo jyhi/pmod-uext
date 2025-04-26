@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "PMOD-UEXT")(type "KiCad")(uri "${KIPRJMOD}/PMOD-UEXT.kicad_sym")(options "")(descr ""))
+  (lib (name "pmod-uext")(type "KiCad")(uri "${KIPRJMOD}/pmod-uext.kicad_sym")(options "")(descr ""))
 )

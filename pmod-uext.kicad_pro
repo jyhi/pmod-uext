@@ -107,6 +107,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -460,11 +461,11 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "PMOD-UEXT"
+      "pmod-uext"
     ]
   },
   "meta": {
-    "filename": "PMOD-UEXT.kicad_pro",
+    "filename": "pmod-uext.kicad_pro",
     "version": 3
   },
   "net_settings": {

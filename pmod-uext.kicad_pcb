@@ -279,7 +279,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/391be3d6-d97c-4817-8918-1f6eef5be83d")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -12.64 -0.38)
@@ -1548,7 +1548,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8455cfbc-4852-4583-8622-6e7f521af755")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -1761,7 +1761,7 @@
 		(property ki_fp_filters "SW?DIP?x2*")
 		(path "/a6961a0c-ef88-4873-a39d-ae706a476ea6")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.41 3.38)
@@ -2195,7 +2195,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/b49399a4-a022-4097-a4e6-9760c4a64de4")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.68 -0.5)
@@ -2723,7 +2723,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b92f4c16-f0cb-4c03-b56f-8914d9b8a85f")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -2942,7 +2942,7 @@
 		(property ki_fp_filters "*WQFN* *SOT-23-THIN* *TSSOP* *BQB* *DYY* *PW*")
 		(path "/f6370e0e-d66f-4ed8-b456-389b407569c8")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.735)
@@ -3347,7 +3347,7 @@
 		(property ki_fp_filters "*WQFN* *SOT-23-THIN* *TSSOP* *BQB* *DYY* *PW*")
 		(path "/8f8ba60b-0887-42c3-84f5-4229c68f28bb")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.735)
@@ -3752,7 +3752,7 @@
 		(property ki_fp_filters "*WQFN* *SOT-23-THIN* *TSSOP* *BQB* *DYY* *PW*")
 		(path "/dcb27008-a104-485d-a46b-96531215d603")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.735)
@@ -4157,7 +4157,7 @@
 		(property ki_fp_filters "*WQFN* *SOT-23-THIN* *TSSOP* *BQB* *DYY* *PW*")
 		(path "/9fc52819-8126-469d-b308-8e89fd54c0e6")
 		(sheetname "/")
-		(sheetfile "PMOD-UEXT.kicad_sch")
+		(sheetfile "pmod-uext.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.735)
